@@ -1,1 +1,1 @@
-Qr-code-component-main
+Qr-code-component-main.
